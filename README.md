@@ -114,7 +114,7 @@ Build a small Angular app for a bar (or kombucha store) to track their kegs. Her
 * Point your browser to localhost:4200
 
 ## Future expansion
-. . .
+We'd like to be able to add actual data on the beers, indicate in the modal how many pints are available, and whether or not the pints are running low. Also, we'd like to implement an Employee Login so that kegs can be added and tapped. Lastly, we'd move the order option to the Employee page so they can track the pints.
 
 ## Known Bugs and Issues
 
